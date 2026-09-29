@@ -14,11 +14,19 @@ A dedicated switch-mode lithium-ion battery charging board based on the **TP5100
 
 ---
 
-## 3D Renders
+## 3D Renders & Schematic
+
+### 3D Photorealistic Views
 
 | Top View | Bottom View |
 | :---: | :---: |
 | ![TP5100 1S Charger Front](front.png) | ![TP5100 1S Charger Back](back.png) |
+
+### Electrical Schematic
+
+<p align="center">
+  <img src="schematic.png" alt="TP5100 1S Charger Schematic" width="800">
+</p>
 
 ---
 
